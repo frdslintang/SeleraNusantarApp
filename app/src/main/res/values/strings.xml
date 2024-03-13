@@ -1,0 +1,277 @@
+<resources>
+    <string name="app_name">Selera Asli Nusantara</string>
+    <string name="food_name">Nama Makanan Daerah</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="action_share">Share</string>
+    <string name="search" />
+    <string name="profile_picture">Profile Picture</string>
+    <string name="lintang_firdaus">Lintang Firdaus</string>
+    <string name="a296bsx2162_bangkit_academy">a296bsx2162@bangkit.academy</string>
+
+    <string-array name="data_name">
+        <item>Rendang</item>
+        <item>Bika Ambon</item>
+        <item>Garang Asem</item>
+        <item>Gulai Belecan</item>
+        <item>Karedok</item>
+        <item>Kerak Telor</item>
+        <item>Mie Aceh</item>
+        <item>Mie Bangka</item>
+        <item>Pempek</item>
+        <item>Pendap</item>
+    </string-array>
+
+    <!-- String array for food descriptions -->
+    <string-array name="data_description">
+        <item><![CDATA[Rendang atau randang dalam bahasa Minangkabau adalah masakan Minangkabau yang berbahan dasar daging dan berasal dari Sumatera Barat, Indonesia. Berikut adalah resep singkat untuk Rendang, hidangan daging yang kaya akan rasa dan bumbu khas Indonesia\n
+        \n
+        Bahan-bahan yang Anda perlukan:\n
+        - 500 gram daging sapi (potong sesuai selera)\n
+        - 2 lembar daun jeruk purut\n
+        - 2 batang serai, memarkan\n
+        - 4 lembar daun salam\n
+        - Gula dan Garam\n
+        \n
+        Cara Memasak:\n
+        1. Siapkan bahan dan bumbu yang diperlukan.\n
+        2. Panaskan minyak goreng dalam wajan besar. Tumis bumbu halus hingga harum dan matang.\n
+        3. Masukkan daging sapi ke dalam tumisan bumbu. Aduk rata dan biarkan daging berubah warna.\n
+        4. Tambahkan santan encer, daun jeruk purut, serai, daun salam, lengkuas, garam, dan gula secukupnya. Aduk rata.\n
+        5. Biarkan rendang mendidih dengan api kecil hingga santan encer mengental dan berubah warna menjadi kecokelatan. Ini adalah proses memasak yang memakan waktu, biasanya sekitar 2-3 jam. Anda perlu sesekali mencampur dan memasaknya dengan api kecil agar bumbu meresap dengan baik.\n
+        6. Setelah rendang mengental dan daging empuk, tambahkan santan kental. Masak terus sambil sesekali diaduk hingga rendang benar-benar kering, bumbu meresap sempurna, dan dagingnya berwarna cokelat tua. Ini adalah tanda bahwa rendang sudah matang.\n
+        7. Setelah matang, angkat rendang dari api. Sajikan panas dengan nasi hangat.\n
+        8. Selamat menikmati hidangan Rendang yang lezat ini! Rendang adalah hidangan yang enak dan kaya akan rasa rempah-rempah, serta sempurna sebagai hidangan utama dalam hidangan khas Indonesia.]]></item>
+
+        <item><![CDATA[Bika ambon adalah penganan khas Medan, Sumatera Utara, Indonesia. Camilan ini terbuat dari bahan-bahan seperti tepung tapioka, telur, gula, dan santan
+        Berikut adalah bahan dan cara membuat bika ambon secara singkat:\n
+        \n
+        Bahan:\n
+        1. 250 gram tepung beras\n
+        2. 200 gram gula pasir\n
+        3. 100 ml santan kental\n
+        4. 3 butir telur\n
+        5. 1/2 sendok teh ragi instan\n
+        6. 1/4 sendok teh garam\n
+        7. 1/4 sendok teh vanili bubuk\n
+        8. Pewarna makanan (opsional)\n
+        \n
+        Cara membuat:\n
+        1. Campurkan tepung beras, gula pasir, santan kental, ragi instan, garam, dan vanili bubuk dalam sebuah wadah. Aduk hingga semua bahan tercampur rata.\n
+        2. Tambahkan telur satu per satu sambil terus diaduk hingga adonan menjadi halus dan rata.\n
+        3. Jika ingin menggunakan pewarna makanan, tambahkan sesuai selera dan aduk hingga warna merata.\n
+        4. Tuangkan adonan ke dalam cetakan bika ambon yang telah diolesi minyak atau dialasi dengan daun pisang.\n
+        5. Tutup cetakan dengan rapat dan biarkan adonan fermentasi selama minimal 6-8 jam atau hingga adonan mengembang dan berbuih.\n
+        6. Panaskan panci atau wajan dengan api kecil, lalu letakkan cetakan bika ambon di atasnya.\n
+        7. Tutup panci dan biarkan bika ambon matang selama sekitar 45-60 menit hingga permukaannya berkerak dan matang di dalamnya.\n
+        8. Setelah matang, angkat bika ambon dari cetakan, biarkan dingin, lalu potong sesuai selera\n
+        9. Bika ambon siap disajikan\n
+        Selamat mencoba]]></item>
+
+        <item><![CDATA[Garang Asem adalah sebuah hidangan tradisional dari Indonesia yang memiliki rasa asam dan pedas. Berikut adalah bahan-bahan dan cara memasak garang asem ayam, salah satu versi paling populer dari hidangan ini. Anda dapat menyesuaikan resep ini dengan bahan lain seperti daging sapi atau seafood jika Anda menginginkannya:\n
+        \n
+        Bahan-bahan:\n
+        - 1 ekor ayam, potong menjadi potongan-potongan\n
+        - 2-3 lembar daun salam\n
+        - 2 batang serai, memarkan\n
+        - 2 lembar daun jeruk purut\n
+        - 3-4 buah cabai merah (sesuai selera)\n
+        - 2 sendok makan minyak kelapa atau minyak sayur\n
+        - 1 liter air\n
+        \n
+        Cara memasak:\n
+        1. Pertama, panaskan minyak dalam wajan besar. Tumis bumbu yang dihaluskan hingga harum dan berubah warna.\n
+        2. Tambahkan ayam yang sudah dipotong-potong ke dalam wajan. Aduk-aduk hingga ayam berubah warna dan tercampur dengan bumbu, sekitar 5-7 menit.\n
+        3. Tuangkan air ke dalam wajan, lalu tambahkan daun salam, serai yang sudah dimarkan, dan daun jeruk purut. Aduk rata.\n
+        4. Masukkan cabai merah utuh ke dalam wajan. Tambahkan gula merah, garam, dan asam jawa yang sudah dilarutkan dalam sedikit air. Aduk rata.\n
+        5. Tutup wajan dan biarkan masakan mendidih. Kemudian, kecilkan api dan biarkan garang asem ayam Anda mendidih perlahan hingga ayam menjadi empuk dan bumbu meresap, sekitar 30-45 menit. Sesekali cek rasa dan sesuaikan dengan garam atau asam jawa jika diperlukan.\n
+        6. Setelah ayam empuk dan kuah meresap, matikan api. Garang asem ayam Anda siap disajikan.\n
+        7. Sajikan garang asem ayam panas dengan nasi putih. Anda juga dapat menambahkan irisan cabai rawit sebagai pelengkap jika Anda suka makanan yang lebih pedas.]]></item>
+
+        <item><![CDATA[Gulai belecan adalah hidangan khas Indonesia yang menggunakan bumbu belecan sebagai salah satu komponen utama. Belecan adalah pasta atau bubuk yang terbuat dari udang yang difermentasi dan kemudian diolah menjadi bumbu. Berikut adalah resep dasar untuk membuat gulai belecan:\n
+        \n
+        Bahan-bahan:\n
+        1. 500 gram daging (daging sapi, ayam, atau seafood seperti udang atau ikan), potong sesuai selera\n
+        2. 2-3 lembar daun salam\n
+        3. 2 batang serai, memarkan\n
+        4. 2 lembar daun jeruk purut\n
+        5. 4-5 cabai merah (sesuai selera)\n
+        6. 2 sendok makan minyak kelapa atau minyak sayur\n
+        \n
+        Cara Memasak:\n
+        1. Panaskan minyak dalam panci besar. Tumis bumbu yang telah dihaluskan hingga harum dan berubah warna.\n
+        2. Masukkan potongan daging ke dalam panci dan aduk-aduk hingga daging berubah warna dan tercampur dengan bumbu.\n
+        3. Tambahkan daun salam, serai yang sudah dimarkan, dan daun jeruk purut ke dalam panci. Aduk rata.\n
+        4. Tuangkan santan dan air ke dalam panci, lalu aduk rata. Biarkan gulai mendidih.\n
+        5. Setelah mendidih, kecilkan api dan biarkan gulai terus mendidih perlahan hingga daging empuk dan bumbu meresap, biasanya sekitar 1-2 jam. Sesekali cek rasa dan tambahkan gula dan garam sesuai selera.\n
+        6. Setelah daging empuk dan kuah mengental, matikan api. Gulai belecan siap disajikan.\n
+        7. Sajikan gulai belecan panas dengan nasi putih. Anda juga dapat menambahkan irisan cabai rawit jika Anda suka makanan yang lebih pedas.]]></item>
+
+        <item><![CDATA[Karedok adalah hidangan salad khas Indonesia yang berasal dari daerah Sunda, Jawa Barat. Hidangan ini terbuat dari campuran sayuran mentah yang disajikan dengan bumbu kacang yang lezat. Karedok biasanya sangat segar dan memiliki cita rasa gurih dan pedas. Berikut adalah resep dasar untuk membuat karedok:\n
+        \n
+        Bahan-bahan untuk karedok:\n
+        \n
+        - 2 buah timun, iris tipis\n
+        - 2 buah kubis, iris tipis\n
+        - 100 gram tauge (tauge yang sudah direbus sebentar)\n
+        - 2 buah kentang, iris tipis dan rebus sebentar\n
+        - 4 lembar daun selada atau daun ketela pohon\n
+        - 2 batang daun bawang, iris halus\n
+        - 2 batang kangkung, iris halus (opsional)\n
+        - 2 buah tomat, iris tipis\n
+        \n
+        Cara Membuat Karedok:\n
+        \n
+        1. Pertama-tama, siapkan bumbu kacang. Haluskan kacang tanah, cabai rawit, bawang putih, gula merah, terasi (jika digunakan), dan garam dengan menggunakan cobek atau blender. Tambahkan sedikit air untuk mencapai konsistensi yang diinginkan. Bumbu kacang harus halus dan lembut.\n
+        2. Siapkan semua sayuran yang telah diiris, dan letakkan di atas piring saji atau wadah besar.\n
+        3. Tuangkan bumbu kacang di atas sayuran yang sudah disusun.\n
+        4. Aduk semua bahan hingga tercampur rata dengan bumbu kacang. Pastikan bumbu merata menutupi semua sayuran.\n
+        5. Karedok siap disajikan. Hidangkan karedok segera sebagai hidangan pembuka atau sebagai lauk utama dengan nasi.\n
+        Anda juga dapat menambahkan potongan tahu goreng atau tempe goreng sebagai pelengkap dalam karedok sesuai selera. Selamat menikmati karedok, hidangan segar yang lezat ini!]]></item>
+
+        <item><![CDATA[Kerak telor adalah hidangan tradisional khas Jakarta, Indonesia. Hidangan ini terbuat dari beras ketan yang dipanggang dengan telur ayam dan bumbu-bumbu khas, dan biasanya disajikan dengan bawang merah goreng dan serundeng (kelapa parut sangrai). Berikut adalah resep dasar untuk membuat kerak telor:\n
+        \n
+        Bahan-bahan untuk Kerak Telor:\n
+        \n
+        - 200 gram beras ketan, rendam dalam air selama minimal 3 jam atau semalam\n
+        - 2 butir telur ayam\n
+        - 2 sendok makan kelapa parut sangrai\n
+        - 2 sendok makan ebi (udang kering), sangrai\n
+        - 2 sendok makan bawang merah goreng\n
+        - Minyak goreng secukupnya untuk menggoreng\n
+        \n
+        Cara Membuat Kerak Telor:\n
+        \n
+        1. Setelah beras ketan direndam dalam air, tiriskan dan kemudian kukus sampai matang. Ketan seharusnya masih agak keras dan belum benar-benar lembut. Anda dapat menggunakan kukusan atau panci kukus untuk ini.\n
+        2. Panaskan wajan datar anti lengket dengan sedikit minyak goreng di atasnya. Pastikan minyak merata di seluruh permukaan wajan.\n
+        3. Ambil sebagian dari ketan yang sudah dikukus dan letakkan di wajan panas. Bentuk ketan menjadi lapisan tipis dan merata di wajan. Biarkan ketan menempel di wajan dan biarkan mengeras dan berubah warna menjadi kecoklatan, sekitar 2-3 menit.\n
+        4. Taburkan kelapa parut sangrai, ebi sangrai, bawang merah goreng, bawang putih goreng, gula merah sisir, dan sedikit garam di atasnya sebagai hiasan.\n
+        5. Kerak telor siap disajikan sebagai hidangan gurih yang khas Jakarta. Nikmati selagi masih hangat.\n
+        \n
+        Kerak telor adalah hidangan yang lezat dan unik dengan tekstur renyah dan rasa gurih.]]></item>
+
+
+        <item><![CDATA[Mie Aceh adalah hidangan mi yang berasal dari provinsi Aceh, Indonesia. Mie ini terkenal dengan kuahnya yang kaya rasa dan rempah-rempah yang khas. Mie Aceh biasanya bisa disajikan dalam dua variasi: Mie Aceh Goreng (mie goreng Aceh) dan Mie Aceh Kuah (mie kuah Aceh). Berikut adalah resep untuk Mie Aceh Kuah, salah satu varian paling populer:\n
+        \n
+        Bahan-bahan untuk Mie Aceh Kuah:\n
+        Bahan Utama:\n
+        \n
+        - 200 gram mi kuning (mie telur), rebus dan tiriskan\n
+        - 150 gram daging sapi, ayam, atau seafood (sesuai selera), potong kecil-kecil\n
+        - 2 butir telur, rebus dan potong setengah\n
+        - 2 lembar daun bawang, iris halus\n
+        - 1 sendok makan minyak goreng\n
+        \n
+        Bumbu Mie Aceh:\n
+        \n
+        - 5 butir bawang merah\n
+        - 3 siung bawang putih\n
+        - 3-4 cabai merah (sesuai selera pedas)\n
+        \n
+        Cara Memasak Mie Aceh Kuah:\n
+        \n
+        1. Haluskan semua bumbu Mie Aceh (bawang merah, bawang putih, cabai merah, jahe, kunyit, ketumbar, dan jintan) dengan menggunakan blender atau cobek hingga membentuk pasta.\n
+        2. Panaskan minyak dalam wajan besar. Tumis pasta bumbu hingga harum dan berubah warna.\n
+        3. Tambahkan daging atau seafood ke dalam wajan dan tumis hingga daging berubah warna.\n
+        4. Tambahkan kaldu, daun salam, serai, dan daun jeruk purut ke dalam wajan. Biarkan mendidih dan masak hingga daging atau seafood empuk.\n
+        5. Setelah daging atau seafood empuk, tambahkan santan kental. Aduk rata dan biarkan mendidih sebentar.\n
+        6. Mie Aceh Kuah siap disajikan. Anda juga bisa menambahkan sambal atau jeruk nipis jika suka.\n
+        \n
+        Nikmati Mie Aceh Kuah yang kaya rempah dan lezat sebagai hidangan hangat yang khas dari Aceh!]]></item>
+
+        <item><![CDATA[Mie Bangka adalah hidangan mi yang berasal dari Pulau Bangka, Indonesia. Mi ini biasanya disajikan dengan kuah yang kaya rasa dan berbagai bahan pelengkap. Berikut adalah resep dasar untuk membuat Mie Bangka:\n
+        \n
+        Bahan-bahan untuk Mie Bangka:\n
+        \n
+        Bahan Utama:\n
+        \n
+        - 200 gram mi telur (mi kuning), rebus dan tiriskan\n
+        - 150 gram daging ayam, dada atau paha, potong dadu kecil\n
+        - 2 butir telur, rebus dan potong menjadi dua\n
+        - 2 lembar daun bawang, iris halus\n
+        - 1 sendok makan minyak goreng\n
+        \n
+        Kuah Mie Bangka:\n
+        \n
+        - 500 ml kaldu ayam atau daging (bisa menggunakan kaldu instan)\n
+        - 1 sendok makan minyak wijen (opsional)\n
+        - 2 sendok makan kecap manis\n
+        - 1 sendok makan saus tiram (opsional)\n
+        \n
+        Cara Memasak Mie Bangka:\n
+        \n
+        1. Haluskan semua bumbu Mie Bangka (bawang putih, jahe, kunyit, kemiri jika digunakan, ketumbar bubuk, jintan bubuk, merica bubuk) menjadi pasta halus.\n
+        2. Panaskan minyak dalam wajan besar. Tumis pasta bumbu yang telah dihaluskan hingga harum dan berubah warna.\n
+        3. Tambahkan kaldu ayam atau daging ke dalam wajan. Kemudian tambahkan minyak wijen (jika digunakan), kecap manis, saus tiram (jika digunakan), kecap ikan, serai, dan daun salam. Biarkan mendidih dan masak sebentar hingga bumbu tercampur dengan baik.\n
+        4. Siapkan mangkuk besar. Letakkan mi kuning yang sudah direbus dan tiriskan di dalam mangkuk.\n
+        5. Siapkan tauge, telur rebus yang sudah dipotong, daun bawang iris, bawang merah goreng, sambal, dan irisan jeruk nipis sebagai bahan pelengkap yang bisa disajikan di atas mi.\n
+        6. Tuangkan kuah panas Mie Bangka ke atas mi yang sudah disiapkan di mangkuk\n
+        7. Hiasi mi dengan bahan pelengkap seperti tauge, telur rebus, daun bawang iris, bawang merah goreng, dan seledri. Jika suka, tambahkan sambal atau perasan jeruk nipis sesuai selera.\n
+        \n
+        Mie Bangka siap disajikan sebagai hidangan lezat dan kaya rempah. Selamat menikmati!]]></item>
+
+        <item><![CDATA[Pempek adalah hidangan khas dari Palembang, Indonesia, yang terbuat dari adonan ikan yang dicampur dengan sagu, kemudian digoreng atau direbus. Pempek biasanya disajikan dengan saus cuko yang khas dan irisan timun.\n
+        \n
+        Resep Pempek Singkat:\n
+        \n
+        Bahan-bahan:\n
+        \n
+        - 300 gram ikan tenggiri (atau ikan lain yang cocok untuk pempek), fillet dan haluskan\n
+        - 150 gram tepung sagu\n
+        - 2 siung bawang putih, haluskan\n
+        - Garam secukupnya\n
+        - Air secukupnya\n
+        - Minyak untuk menggoreng\n
+        \n
+        Cara Memasak:\n
+        \n
+        1. Campurkan ikan yang sudah dihaluskan, tepung sagu, bawang putih, dan garam dalam sebuah mangkuk. Tambahkan sedikit air sambil terus diaduk hingga adonan kental dan bisa dibentuk.\n
+        2. Bentuk adonan menjadi bulatan atau cetakan pempek sesuai selera (kapal selam, lenjer, keriting, dll.)\n
+        3. Panaskan minyak dalam wajan. Goreng pempek hingga kecoklatan dan matang sepenuhnya. Tiriskan pempek di atas kertas minyak atau tisu dapur untuk menghilangkan kelebihan minyak.\n
+        4. Sajikan pempek panas dengan saus cuko dan irisan timun.\n
+        \n
+        Selamat menikmati pempek dengan saus cuko yang lezat!]]></item>
+
+        <item><![CDATA[Pendap adalah hidangan tradisional khas Minangkabau, Sumatera Barat, Indonesia. Hidangan ini termasuk dalam kelompok makanan Minang yang dikenal dengan istilah "Masakan Padang" atau "Masakan Minang." Pendap adalah hidangan salad yang terbuat dari bahan-bahan segar yang dicampur dengan bumbu khas Padang yang gurih dan pedas. Beberapa bahan yang umumnya digunakan dalam pendap adalah daun singkong, daun ubi jalar, daun papaya muda, dan sayuran hijau lainnya.\n
+        \n
+        Bahan-bahan Pendap:\n
+        \n
+        - Daun singkong, daun ubi jalar, daun papaya muda, atau sayuran hijau lainnya (secukupnya, bisa dicampur)\n
+        - Tauge (tauge segar atau rebus, sesuai selera)\n
+        - Ikan asin (ikan teri atau ikan bilis, sesuai selera)\n
+        - Bumbu-bumbu yang dihaluskan: bawang merah, bawang putih, cabai merah, cabai rawit (sesuai selera pedas), terasi (bisa dihaluskan atau digoreng terlebih dahulu)\n
+        - Garam secukupnya\n
+        \n
+        Cara Membuat Pendap:\n
+        \n
+        1. Bersihkan dan potong-potong daun singkong, daun ubi jalar, daun papaya muda, atau sayuran hijau lainnya sesuai selera. Cuci bersih.\n
+        2. Rebus daun-daunan dan tauge hingga matang dan empuk. Tiriskan.\n
+        3. Panaskan ikan asin (teri atau ikan bilis) dalam sedikit minyak hingga kering dan garing. Angkat dan sisihkan.\n
+        4. Haluskan bumbu-bumbu seperti bawang merah, bawang putih, cabai merah, cabai rawit, dan terasi. Anda bisa menggunakan cobek atau blender untuk menghaluskan bumbu-bumbu ini.\n
+        5. Campurkan bumbu yang sudah dihaluskan dengan garam dan air asam jawa sesuai selera, sehingga Anda mendapatkan bumbu cuka yang pedas dan gurih.\n
+        6. Atur daun-daunan yang sudah direbus dan tauge di atas piring saji.\n
+        7. Tuangkan bumbu cuka di atas daun-daunan dan tauge.\n
+        8. Taburkan ikan asin yang sudah digoreng di atasnya.\n
+        9. Pendap siap disajikan sebagai hidangan segar yang lezat.\n
+        \n
+        Pendap adalah hidangan yang kaya rasa dan memiliki perpaduan antara rasa pedas, gurih, dan asam, yang merupakan ciri khas dari masakan Minang. Selamat menikmati!]]></item>
+
+    </string-array>
+
+    <!-- Integer array for food photos -->
+    <integer-array name="data_photo">
+        <item>@drawable/rendang</item>
+        <item>@drawable/bikaambon</item>
+        <item>@drawable/garangasem</item>
+        <item>@drawable/gulaibelecan</item>
+        <item>@drawable/karedok</item>
+        <item>@drawable/keraktelor</item>
+        <item>@drawable/mieaceh</item>
+        <item>@drawable/miebangka</item>
+        <item>@drawable/pempek</item>
+        <item>@drawable/pendap</item>
+    </integer-array>
+</resources>
+
+

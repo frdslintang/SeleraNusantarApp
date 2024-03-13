@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- Layout atas dengan warna #708090 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            android:layout_weight="1"
+            android:background="#E0D9E1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <!-- Gambar Profil -->
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/profile_image"
+                android:layout_width="240dp"
+                android:layout_height="208dp"
+                android:layout_marginTop="50dp"
+                android:contentDescription="@string/profile_picture"
+                android:src="@drawable/me"
+                app:civ_border_color="#958B8B"
+                app:civ_border_width="4dp"
+                app:civ_circle_background_color="#FFFFFF" />
+
+        </LinearLayout>
+
+        <!-- Layout bawah dengan warna #F8F8FF -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_weight="1"
+            android:background="#AEA1A1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/full_name3"
+                android:layout_width="366dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:gravity="center"
+                android:text="@string/lintang_firdaus"
+                android:textColor="#000000"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/email"
+                android:layout_width="wrap_content"
+                android:layout_height="46dp"
+                android:layout_marginTop="8dp"
+                android:gravity="center"
+                android:text="@string/a296bsx2162_bangkit_academy"
+                android:textColor="#000000"
+                android:textSize="18sp" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

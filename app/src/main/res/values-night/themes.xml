@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.MyRecyclerView" parent="Theme.Material3.DayNight">
+        <!-- Tambahkan item yang dibutuhkan di sini jika perlu -->
+    </style>
+</resources>
